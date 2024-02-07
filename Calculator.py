@@ -1,6 +1,6 @@
-def add(sum_1, sum_2):
-    return sum_1 + sum_2
+def add(num_1, num_2):
+    return num_1 + num_2
 
-def substract(sub_1, sub_2):
-    return sub_1 - sub_2
+def substract(num_1, num_2):
+    return num_1 - num_2
 
